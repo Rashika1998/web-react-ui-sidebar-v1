@@ -11,4 +11,5 @@
 #sub-sub-div {
     display: flex;
     flex-direction: column;
+    color: lightslategrey;
 }
