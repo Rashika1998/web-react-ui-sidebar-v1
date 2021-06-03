@@ -1,3 +1,14 @@
+#main-div {
+    display: flex;
+    flex-direction: row;
+}
+
 #sub-div {
     display: flex;
+    flex-direction: row;
+}
+
+#sub-sub-div {
+    display: flex;
+    flex-direction: column;
 }
